@@ -942,3 +942,5 @@ footer.entry-meta .meta-in {
     animation-timing-function: ease;
   }
  }
+
+ img[alt=lab_logo] { width: 150% !important;}
