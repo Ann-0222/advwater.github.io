@@ -2,6 +2,25 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2025-03-academy.png"
+            ],
+            "description": "[2025.03 대한상하수도∙물환경학회 공동학술대회]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2025-02-graduation.png"
+            ],
+            "description": "[2025.02 장태순 석사 및 김나래 학부 졸업]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2025-graduation-1.png",
+                "../../images/gallery/2025-graduation-2.png"
+            ],
+            "description": "[2025 이주영/장태순 우수학술연구상 수상(졸업식 with 총장님)]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2024-11-conference.png"
             ],
             "description": "[2024.11 대한환경공학회]"

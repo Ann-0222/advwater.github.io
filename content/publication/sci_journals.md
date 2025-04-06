@@ -2,6 +2,11 @@
 title = "SCI(E) Journals"
 weight = 0
 +++
+&#8291;86. Yoon S, Kim J, Jang T, Choi JH, Kim N, Kim HK*, **Park JA***. Synthesis of zinc oxide/reduced graphene oxide microspheres for the photodegradation of bisphenol F. Carbon Letters, 2025
+
+&#8291;85. Jang T, Yoon S, Choi JH, Kim N, **Park JA***. Simultaneous Removal of Heavy Metals and Dyes on Sodium Alginate/Polyvinyl Alcohol/κ-Carrageenan Aerogel Beads. Gels, 11, 2025
+
+&#8291;84. Ko M, Choi JH, Jang TS, Yoon S, Choi JW, **Park JA***. Simultaneous removal of diclofenac, triclosan, and microplastics using graphene oxide-chitosan sponges. Journal of Water Process Engineering, 107032, 2025
 
 &#8291;83. Lee J, Yoon S, Jang T, Choi JH, Kim N, Kim HO, Lim KS, Ha SJ, **Park JA***. A facile approach to microplastic identification and quantification using differential scanning calorimetry. Science of The Total Environment, 957, 177456, 2024
 

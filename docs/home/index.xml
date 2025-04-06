@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on 강원대학교 물환경·고도수처리 연구실</title>
-    <link>https://advwater.kangwon.ac.kr/home/</link>
+    <link>http://localhost:62464/home/</link>
     <description>Recent content in Homes on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="https://advwater.kangwon.ac.kr/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62464/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://advwater.kangwon.ac.kr/home/subheader/</link>
+      <link>http://localhost:62464/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/home/subheader/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/home_image.jpeg&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;본 연구실에서는 다양한 수질 오염물질을 처리하는 공정개발을 위해&lt;br&gt;&#xA;⁣1) 산화-환원반응, 2) 나노섬유 멤브레인, 3) 환경 기능성 소재 합성에 관심을 갖고 있으며,&lt;br&gt;&#xA;특히 4) 미량유해물질(contaminant of emerging concern) 처리기술 및 물질의 분해기작을(transformation kinetics and mechanisms)평가하고,&lt;br&gt;&#xA;⁣5) 환경미생물 및 모델링을 통해 미량유해물질과 부산물들의 독성평가 연구를 중점적으로 수행하고 있습니다.&lt;/p&gt;</description>
+      <guid>http://localhost:62464/home/subheader/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/home_image.jpeg&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;우리 연구실은 눈에 보이지않는 미세플라스틱과 미량오염물질에 대한 모니터링 및 고도수처리기술 개발에 전념하고 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;학문적 깊이와 실용적 응용을 균형 있게 추구하며 다음 분야에 중점을 두고 있습니다:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;산화-환원 반응 기반의 고도수처리 기술 연구&lt;/li&gt;&#xA;&lt;li&gt;전기방사 나노섬유 멤브레인 및 기능성 소재 합성 및 적용&lt;/li&gt;&#xA;&lt;li&gt;신종미량오염물질의 처리기술과 분해 메커니즘 규명&lt;/li&gt;&#xA;&lt;li&gt;병원성미생물 살균 및 환경 미생물/모델링을 활용한 독성평가&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;대학원생들의 생활이 궁금하다면?&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/a.d.v._lab&#34;&gt;https://www.instagram.com/a.d.v._lab&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

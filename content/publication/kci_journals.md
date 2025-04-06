@@ -2,6 +2,7 @@
 title = "Domestic Journal, KCI"
 weight = 1
 +++
+&#8291;19. 유선아, 이주영, **박정안**, 임광석, 하석진, 이형석*, 김현욱*. 인체 건강에 미치는 미세플라스틱 영향에 관한 최근 동향. Korean Society for Biotechnology and Bioengineering Journal. 39(4) 2024
 
 &#8291;18. 이진용*, 차지혜, 김남주, **박정안**. 미세플라스틱의 대수층 내 분포, 이동 및 예측 모델링에 대한 고찰. 지질학회지, 34(4), 2024.
 

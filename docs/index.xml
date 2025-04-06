@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>강원대학교 물환경·고도수처리 연구실</title>
-    <link>https://advwater.kangwon.ac.kr/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="https://advwater.kangwon.ac.kr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Domestic Journal, KCI</title>
-      <link>https://advwater.kangwon.ac.kr/publication/kci_journals/</link>
+      <link>http://localhost:1313/publication/kci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/kci_journals/</guid>
-      <description>&lt;p&gt;⁣18. 이진용*, 차지혜, 김남주, &lt;strong&gt;박정안&lt;/strong&gt;. 미세플라스틱의 대수층 내 분포, 이동 및 예측 모델링에 대한 고찰. 지질학회지, 34(4), 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣17. 김연화, 신예힘, &lt;strong&gt;박정안&lt;/strong&gt;, 임광석, 김현욱, 하석진*. 미생물 또는 효소를 이용한 플라스틱 분해의 최근 연구 동향. 한국생물공학회지, 39(3), 69-77, 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣16. 이주영, &lt;strong&gt;박정안&lt;/strong&gt;*. 수중 미세플라스틱의 레보플록사신 흡착특성 비교평가. 대한환경공학회지. 44(6):209-216, 2022.&lt;/p&gt;&#xA;&lt;p&gt;⁣15. 양보람, &lt;strong&gt;박정안&lt;/strong&gt;, 남혜림, 정성목, 최재우, 박희등, 이상협*. UVC-LED기반 고도산화공정을 이용한 수중 마이크로시스틴-LR, 이취미 물질, 자연유기물 분해. 대한환경공학회지. 39(5): 246-254, 2017&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publication/kci_journals/</guid>
+      <description>&lt;p&gt;⁣19. 유선아, 이주영, &lt;strong&gt;박정안&lt;/strong&gt;, 임광석, 하석진, 이형석*, 김현욱*. 인체 건강에 미치는 미세플라스틱 영향에 관한 최근 동향. Korean Society for Biotechnology and Bioengineering Journal. 39(4) 2024&lt;/p&gt;&#xA;&lt;p&gt;⁣18. 이진용*, 차지혜, 김남주, &lt;strong&gt;박정안&lt;/strong&gt;. 미세플라스틱의 대수층 내 분포, 이동 및 예측 모델링에 대한 고찰. 지질학회지, 34(4), 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣17. 김연화, 신예힘, &lt;strong&gt;박정안&lt;/strong&gt;, 임광석, 김현욱, 하석진*. 미생물 또는 효소를 이용한 플라스틱 분해의 최근 연구 동향. 한국생물공학회지, 39(3), 69-77, 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣16. 이주영, &lt;strong&gt;박정안&lt;/strong&gt;*. 수중 미세플라스틱의 레보플록사신 흡착특성 비교평가. 대한환경공학회지. 44(6):209-216, 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patent</title>
-      <link>https://advwater.kangwon.ac.kr/publication/patent/</link>
+      <link>http://localhost:1313/publication/patent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/patent/</guid>
+      <guid>http://localhost:1313/publication/patent/</guid>
       <description>&lt;p&gt;⁣1. “수처리용 흡착제 및 이의 제조방법“, 등록번호 10-2010135&lt;/p&gt;&#xA;&lt;p&gt;⁣2. “수처리용 분리막 및 이의 제조방법”, 등록번호 10-1971797&lt;/p&gt;&#xA;&lt;p&gt;⁣3. “수밀성이 향상된 압전분리막 에셈블리”, 등록번호 10-2036995&lt;/p&gt;&#xA;&lt;p&gt;⁣4. “유체의 흐름을 제어하는 조류제어장치”, 등록번호 10-2022192&lt;/p&gt;&#xA;&lt;p&gt;⁣5. “미세흡착제 유실방지 장치”, 등록번호 10-2082693&lt;/p&gt;&#xA;&lt;p&gt;⁣6. “유무기 하이브리드 흡착제와 광촉매를 활용한 폐수처리와 흡착제 재생 방법”, 등록번호 10-2038771&lt;/p&gt;&#xA;&lt;p&gt;⁣7. “수처리용 분리막과 이의 제조방법”, 등록번호 10-2064074&lt;/p&gt;&#xA;&lt;p&gt;⁣8. “마이크로시스틴, 2-MIB 및 지오스민 제거용 활성탄 및 이를 이용한 제거방법”, 등록번호 10-1777786&lt;/p&gt;&#xA;&lt;p&gt;⁣9. “마이크로시스틴, 2-MIB 및 지오스민 제거용 활성탄 및 이를 이용한 제거방법”, 등록번호 10-1777788&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://advwater.kangwon.ac.kr/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/contact_image.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;수질환경분야 연구에 열정과 목표 의식이 뚜렷한 박사후과정생(Post-doc), 대학원생과 학부연구생을 모집합니다.&lt;/p&gt;&#xA;&lt;p&gt;관심있는 학생은 박정안 교수님 이메일(&lt;a href=&#34;mailto:pjaan@kanwon.ac.kr&#34;&gt;pjaan@kanwon.ac.kr&lt;/a&gt;)로 문의바랍니다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Office: 강원대학교 춘천캠퍼스 공학5관 410호 (교수오피스), 401호 (연구실오피스)&lt;br&gt;&#xA;Tel: 033) 250-6359&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://advwater.kangwon.ac.kr/home/subheader/</link>
+      <link>http://localhost:1313/home/subheader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/home/subheader/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../images/home_image.jpeg&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;본 연구실에서는 다양한 수질 오염물질을 처리하는 공정개발을 위해&lt;br&gt;&#xA;⁣1) 산화-환원반응, 2) 나노섬유 멤브레인, 3) 환경 기능성 소재 합성에 관심을 갖고 있으며,&lt;br&gt;&#xA;특히 4) 미량유해물질(contaminant of emerging concern) 처리기술 및 물질의 분해기작을(transformation kinetics and mechanisms)평가하고,&lt;br&gt;&#xA;⁣5) 환경미생물 및 모델링을 통해 미량유해물질과 부산물들의 독성평가 연구를 중점적으로 수행하고 있습니다.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/home/subheader/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/home_image.jpeg&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;우리 연구실은 눈에 보이지않는 미세플라스틱과 미량오염물질에 대한 모니터링 및 고도수처리기술 개발에 전념하고 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;학문적 깊이와 실용적 응용을 균형 있게 추구하며 다음 분야에 중점을 두고 있습니다:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;산화-환원 반응 기반의 고도수처리 기술 연구&lt;/li&gt;&#xA;&lt;li&gt;전기방사 나노섬유 멤브레인 및 기능성 소재 합성 및 적용&lt;/li&gt;&#xA;&lt;li&gt;신종미량오염물질의 처리기술과 분해 메커니즘 규명&lt;/li&gt;&#xA;&lt;li&gt;병원성미생물 살균 및 환경 미생물/모델링을 활용한 독성평가&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;대학원생들의 생활이 궁금하다면?&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/a.d.v._lab&#34;&gt;https://www.instagram.com/a.d.v._lab&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/lab_logo.png&#34; alt=&#34;랩 로고&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Micropollutant oxidation for AOPs: transformation products and toxicity</title>
-      <link>https://advwater.kangwon.ac.kr/research/data1/</link>
+      <link>http://localhost:1313/research/data1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/research/data1/</guid>
+      <guid>http://localhost:1313/research/data1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_1.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monitoring and removal of microplastics from aqueous solution</title>
-      <link>https://advwater.kangwon.ac.kr/research/data5/</link>
+      <link>http://localhost:1313/research/data5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/research/data5/</guid>
+      <guid>http://localhost:1313/research/data5/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_5.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Removal of various pollutant using environmental functional materials</title>
-      <link>https://advwater.kangwon.ac.kr/research/data2/</link>
+      <link>http://localhost:1313/research/data2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/research/data2/</guid>
+      <guid>http://localhost:1313/research/data2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_2.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>SCI(E) Journals</title>
-      <link>https://advwater.kangwon.ac.kr/publication/sci_journals/</link>
+      <link>http://localhost:1313/publication/sci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/sci_journals/</guid>
-      <description>&lt;p&gt;⁣83. Lee J, Yoon S, Jang T, Choi JH, Kim N, Kim HO, Lim KS, Ha SJ, &lt;strong&gt;Park JA&lt;/strong&gt;*. A facile approach to microplastic identification and quantification using differential scanning calorimetry. Science of The Total Environment, 957, 177456, 2024&lt;/p&gt;&#xA;&lt;p&gt;⁣82. Kim M, Ahn YR, Yoon S, Choi J, Kim H, Lim KS, Ha SJ, &lt;strong&gt;Park JA&lt;/strong&gt;*, Kim HO*. Application of Metal-Organic Frameworks for Photocatalytic Degradation of Microplastics: Design, Challenges, and Scope. Chemosphere, 143518, 2024&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publication/sci_journals/</guid>
+      <description>&lt;p&gt;⁣86. Yoon S, Kim J, Jang T, Choi JH, Kim N, Kim HK*, &lt;strong&gt;Park JA&lt;/strong&gt;*. Synthesis of zinc oxide/reduced graphene oxide microspheres for the photodegradation of bisphenol F. Carbon Letters, 2025&lt;/p&gt;&#xA;&lt;p&gt;⁣85. Jang T, Yoon S, Choi JH, Kim N, &lt;strong&gt;Park JA&lt;/strong&gt;*. Simultaneous Removal of Heavy Metals and Dyes on Sodium Alginate/Polyvinyl Alcohol/κ-Carrageenan Aerogel Beads. Gels, 11, 2025&lt;/p&gt;&#xA;&lt;p&gt;⁣84. Ko M, Choi JH, Jang TS, Yoon S, Choi JW, &lt;strong&gt;Park JA&lt;/strong&gt;*. Simultaneous removal of diclofenac, triclosan, and microplastics using graphene oxide-chitosan sponges. Journal of Water Process Engineering, 107032, 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Synthesis of functionalized antimicrobial electrospun nanofibers</title>
-      <link>https://advwater.kangwon.ac.kr/research/data3/</link>
+      <link>http://localhost:1313/research/data3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/research/data3/</guid>
+      <guid>http://localhost:1313/research/data3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_3.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Transport of bacteria, bacteriophage, and nanomaterials in porous media</title>
-      <link>https://advwater.kangwon.ac.kr/research/data4/</link>
+      <link>http://localhost:1313/research/data4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/research/data4/</guid>
+      <guid>http://localhost:1313/research/data4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_4.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Treating cyanotoxins using light-assisted AOPs and functionalized-adsorbents</title>
-      <link>https://advwater.kangwon.ac.kr/research/data0/</link>
+      <link>http://localhost:1313/research/data0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/research/data0/</guid>
+      <guid>http://localhost:1313/research/data0/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_0.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

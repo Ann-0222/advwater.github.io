@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication on 강원대학교 물환경·고도수처리 연구실</title>
-    <link>https://advwater.kangwon.ac.kr/publication/</link>
+    <link>http://localhost:62464/publication/</link>
     <description>Recent content in Publication on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="https://advwater.kangwon.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62464/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Domestic Journal, KCI</title>
-      <link>https://advwater.kangwon.ac.kr/publication/kci_journals/</link>
+      <link>http://localhost:62464/publication/kci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/kci_journals/</guid>
-      <description>&lt;p&gt;⁣18. 이진용*, 차지혜, 김남주, &lt;strong&gt;박정안&lt;/strong&gt;. 미세플라스틱의 대수층 내 분포, 이동 및 예측 모델링에 대한 고찰. 지질학회지, 34(4), 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣17. 김연화, 신예힘, &lt;strong&gt;박정안&lt;/strong&gt;, 임광석, 김현욱, 하석진*. 미생물 또는 효소를 이용한 플라스틱 분해의 최근 연구 동향. 한국생물공학회지, 39(3), 69-77, 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣16. 이주영, &lt;strong&gt;박정안&lt;/strong&gt;*. 수중 미세플라스틱의 레보플록사신 흡착특성 비교평가. 대한환경공학회지. 44(6):209-216, 2022.&lt;/p&gt;&#xA;&lt;p&gt;⁣15. 양보람, &lt;strong&gt;박정안&lt;/strong&gt;, 남혜림, 정성목, 최재우, 박희등, 이상협*. UVC-LED기반 고도산화공정을 이용한 수중 마이크로시스틴-LR, 이취미 물질, 자연유기물 분해. 대한환경공학회지. 39(5): 246-254, 2017&lt;/p&gt;</description>
+      <guid>http://localhost:62464/publication/kci_journals/</guid>
+      <description>&lt;p&gt;⁣19. 유선아, 이주영, &lt;strong&gt;박정안&lt;/strong&gt;, 임광석, 하석진, 이형석*, 김현욱*. 인체 건강에 미치는 미세플라스틱 영향에 관한 최근 동향. Korean Society for Biotechnology and Bioengineering Journal. 39(4) 2024&lt;/p&gt;&#xA;&lt;p&gt;⁣18. 이진용*, 차지혜, 김남주, &lt;strong&gt;박정안&lt;/strong&gt;. 미세플라스틱의 대수층 내 분포, 이동 및 예측 모델링에 대한 고찰. 지질학회지, 34(4), 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣17. 김연화, 신예힘, &lt;strong&gt;박정안&lt;/strong&gt;, 임광석, 김현욱, 하석진*. 미생물 또는 효소를 이용한 플라스틱 분해의 최근 연구 동향. 한국생물공학회지, 39(3), 69-77, 2024.&lt;/p&gt;&#xA;&lt;p&gt;⁣16. 이주영, &lt;strong&gt;박정안&lt;/strong&gt;*. 수중 미세플라스틱의 레보플록사신 흡착특성 비교평가. 대한환경공학회지. 44(6):209-216, 2022.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patent</title>
-      <link>https://advwater.kangwon.ac.kr/publication/patent/</link>
+      <link>http://localhost:62464/publication/patent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/patent/</guid>
+      <guid>http://localhost:62464/publication/patent/</guid>
       <description>&lt;p&gt;⁣1. “수처리용 흡착제 및 이의 제조방법“, 등록번호 10-2010135&lt;/p&gt;&#xA;&lt;p&gt;⁣2. “수처리용 분리막 및 이의 제조방법”, 등록번호 10-1971797&lt;/p&gt;&#xA;&lt;p&gt;⁣3. “수밀성이 향상된 압전분리막 에셈블리”, 등록번호 10-2036995&lt;/p&gt;&#xA;&lt;p&gt;⁣4. “유체의 흐름을 제어하는 조류제어장치”, 등록번호 10-2022192&lt;/p&gt;&#xA;&lt;p&gt;⁣5. “미세흡착제 유실방지 장치”, 등록번호 10-2082693&lt;/p&gt;&#xA;&lt;p&gt;⁣6. “유무기 하이브리드 흡착제와 광촉매를 활용한 폐수처리와 흡착제 재생 방법”, 등록번호 10-2038771&lt;/p&gt;&#xA;&lt;p&gt;⁣7. “수처리용 분리막과 이의 제조방법”, 등록번호 10-2064074&lt;/p&gt;&#xA;&lt;p&gt;⁣8. “마이크로시스틴, 2-MIB 및 지오스민 제거용 활성탄 및 이를 이용한 제거방법”, 등록번호 10-1777786&lt;/p&gt;&#xA;&lt;p&gt;⁣9. “마이크로시스틴, 2-MIB 및 지오스민 제거용 활성탄 및 이를 이용한 제거방법”, 등록번호 10-1777788&lt;/p&gt;</description>
     </item>
     <item>
       <title>SCI(E) Journals</title>
-      <link>https://advwater.kangwon.ac.kr/publication/sci_journals/</link>
+      <link>http://localhost:62464/publication/sci_journals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://advwater.kangwon.ac.kr/publication/sci_journals/</guid>
-      <description>&lt;p&gt;⁣83. Lee J, Yoon S, Jang T, Choi JH, Kim N, Kim HO, Lim KS, Ha SJ, &lt;strong&gt;Park JA&lt;/strong&gt;*. A facile approach to microplastic identification and quantification using differential scanning calorimetry. Science of The Total Environment, 957, 177456, 2024&lt;/p&gt;&#xA;&lt;p&gt;⁣82. Kim M, Ahn YR, Yoon S, Choi J, Kim H, Lim KS, Ha SJ, &lt;strong&gt;Park JA&lt;/strong&gt;*, Kim HO*. Application of Metal-Organic Frameworks for Photocatalytic Degradation of Microplastics: Design, Challenges, and Scope. Chemosphere, 143518, 2024&lt;/p&gt;</description>
+      <guid>http://localhost:62464/publication/sci_journals/</guid>
+      <description>&lt;p&gt;⁣86. Yoon S, Kim J, Jang T, Choi JH, Kim N, Kim HK*, &lt;strong&gt;Park JA&lt;/strong&gt;*. Synthesis of zinc oxide/reduced graphene oxide microspheres for the photodegradation of bisphenol F. Carbon Letters, 2025&lt;/p&gt;&#xA;&lt;p&gt;⁣85. Jang T, Yoon S, Choi JH, Kim N, &lt;strong&gt;Park JA&lt;/strong&gt;*. Simultaneous Removal of Heavy Metals and Dyes on Sodium Alginate/Polyvinyl Alcohol/κ-Carrageenan Aerogel Beads. Gels, 11, 2025&lt;/p&gt;&#xA;&lt;p&gt;⁣84. Ko M, Choi JH, Jang TS, Yoon S, Choi JW, &lt;strong&gt;Park JA&lt;/strong&gt;*. Simultaneous removal of diclofenac, triclosan, and microplastics using graphene oxide-chitosan sponges. Journal of Water Process Engineering, 107032, 2025&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
