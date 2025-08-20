@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://advwater.kangwon.ac.kr/publication/kci_journals/</loc>
+    <loc>http://localhost:1313/publication/kci_journals/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/home/research/</loc>
+    <loc>http://localhost:1313/home/research/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/publication/patent/</loc>
+    <loc>http://localhost:1313/publication/patent/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/members/professor/</loc>
+    <loc>http://localhost:1313/members/professor/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/members/alumni/</loc>
+    <loc>http://localhost:1313/members/alumni/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/members/students/</loc>
+    <loc>http://localhost:1313/members/students/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/home/subheader/</loc>
+    <loc>http://localhost:1313/home/subheader/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/members/</loc>
+    <loc>http://localhost:1313/members/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/home/</loc>
+    <loc>http://localhost:1313/home/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/data1/</loc>
+    <loc>http://localhost:1313/research/data1/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/data5/</loc>
+    <loc>http://localhost:1313/research/data5/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/data2/</loc>
+    <loc>http://localhost:1313/research/data2/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/publication/sci_journals/</loc>
+    <loc>http://localhost:1313/publication/sci_journals/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/data3/</loc>
+    <loc>http://localhost:1313/research/data3/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/data4/</loc>
+    <loc>http://localhost:1313/research/data4/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/research/data0/</loc>
+    <loc>http://localhost:1313/research/data0/</loc>
   </url><url>
-    <loc>https://advwater.kangwon.ac.kr/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>
