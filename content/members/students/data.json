@@ -25,7 +25,16 @@
             "en_name": "Kim, Na Rae",
             "image": "../../images/member/kimnarae.png",
             "bio": [],
-            "research_topic": "Optimization of microplastic analysis methods and protocol establishment"
+            "research_topic": "Optimization of microplastic analysis/Degradation of microplasitcs using advanced oxidation process"
+        },
+        {
+            "id": 3,
+            "title": "BS/MS student",
+            "name": "이명송",
+            "en_name": "Lee, Myeong Song",
+            "image": "../../images/member/leemyeongsong.png",
+            "bio": [],
+            "research_topic": "Monitoring and transport of microplastics in drinking water source"
         }
     ],
     "undergraduate_students": [

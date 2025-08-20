@@ -2,6 +2,8 @@
 title = "SCI(E) Journals"
 weight = 0
 +++
+&#8291;87. Kim N, Lee,JW, Jang T, Yoon S, Choi JH, Hong E*, **Park JA***. Adsorption of cationic dyes using Sargassum horneri and Ulva australis biosorbent. Desalination and Water Treatment, 101351, 2025
+
 &#8291;86. Yoon S, Kim J, Jang T, Choi JH, Kim N, Kim HK*, **Park JA***. Synthesis of zinc oxide/reduced graphene oxide microspheres for the photodegradation of bisphenol F. Carbon Letters, 2025
 
 &#8291;85. Jang T, Yoon S, Choi JH, Kim N, **Park JA***. Simultaneous Removal of Heavy Metals and Dyes on Sodium Alginate/Polyvinyl Alcohol/κ-Carrageenan Aerogel Beads. Gels, 11, 2025

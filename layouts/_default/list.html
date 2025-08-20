@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ if eq .Section "members" }}
+  {{ partial "members/content.html" . }}
+{{ else }}
 <main id="main">
 
 	<div class="container">
@@ -32,4 +35,5 @@
 	</div>	<!-- /container -->
 
 </main>
+{{ end }}
 {{ end }}

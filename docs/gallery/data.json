@@ -2,6 +2,12 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2025-08-mt.png"
+            ],
+            "description": "[2025.08 연구실 엠티(충주)]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2025-03-academy.png"
             ],
             "description": "[2025.03 대한상하수도∙물환경학회 공동학술대회]"
