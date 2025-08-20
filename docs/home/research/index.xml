@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on 강원대학교 물환경·고도수처리 연구실</title>
-    <link>http://localhost:1313/home/research/</link>
+    <link>https://advwater.kangwon.ac.kr/home/research/</link>
     <description>Recent content in Research on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="http://localhost:1313/home/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://advwater.kangwon.ac.kr/home/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

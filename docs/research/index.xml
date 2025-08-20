@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on 강원대학교 물환경·고도수처리 연구실</title>
-    <link>http://localhost:1313/research/</link>
+    <link>https://advwater.kangwon.ac.kr/research/</link>
     <description>Recent content in Research on 강원대학교 물환경·고도수처리 연구실</description>
     <generator>Hugo</generator>
     <language>ko</language>
-    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://advwater.kangwon.ac.kr/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micropollutant oxidation for AOPs: transformation products and toxicity</title>
-      <link>http://localhost:1313/research/data1/</link>
+      <link>https://advwater.kangwon.ac.kr/research/data1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/data1/</guid>
+      <guid>https://advwater.kangwon.ac.kr/research/data1/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_1.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monitoring and removal of microplastics from aqueous solution</title>
-      <link>http://localhost:1313/research/data5/</link>
+      <link>https://advwater.kangwon.ac.kr/research/data5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/data5/</guid>
+      <guid>https://advwater.kangwon.ac.kr/research/data5/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_5.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Removal of various pollutant using environmental functional materials</title>
-      <link>http://localhost:1313/research/data2/</link>
+      <link>https://advwater.kangwon.ac.kr/research/data2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/data2/</guid>
+      <guid>https://advwater.kangwon.ac.kr/research/data2/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_2.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Synthesis of functionalized antimicrobial electrospun nanofibers</title>
-      <link>http://localhost:1313/research/data3/</link>
+      <link>https://advwater.kangwon.ac.kr/research/data3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/data3/</guid>
+      <guid>https://advwater.kangwon.ac.kr/research/data3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_3.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Transport of bacteria, bacteriophage, and nanomaterials in porous media</title>
-      <link>http://localhost:1313/research/data4/</link>
+      <link>https://advwater.kangwon.ac.kr/research/data4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/data4/</guid>
+      <guid>https://advwater.kangwon.ac.kr/research/data4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_4.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Treating cyanotoxins using light-assisted AOPs and functionalized-adsorbents</title>
-      <link>http://localhost:1313/research/data0/</link>
+      <link>https://advwater.kangwon.ac.kr/research/data0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/data0/</guid>
+      <guid>https://advwater.kangwon.ac.kr/research/data0/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/researches/research_0.png&#34; alt=&#34;이미지&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
