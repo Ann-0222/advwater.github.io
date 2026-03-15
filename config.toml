@@ -53,17 +53,22 @@ publishDir = "docs"
     parent = "members"
     weight = 4
 [[menu.main]]
+    name = "post-doc"
+    url = "/members/post_doc/"
+    parent = "members"
+    weight = 5
+[[menu.main]]
     name = "research"
     url = "/research/"
-    weight = 5
+    weight = 6
 [[menu.main]]
     name = "publication"
     url = "/publication/"
-    weight = 6
+    weight = 7
 [[menu.main]]
     name = "gallery"
     url = "/gallery/"
-    weight = 7
+    weight = 8
 
 [params.disqus]
     site = ""

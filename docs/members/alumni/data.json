@@ -31,6 +31,16 @@
             "bio": [],
             "research_topic": "Synthesis of plastic waste recycled functional material to treat pharmaceutical and heavy metals",
             "thesis_title": "Simultaneous adsorption of heavy metals and dyes on sodium alginate/polyvinyl alcohol/κ-carrageenan beads"
+        },
+        {
+            "id": 3,
+            "title": "MS's degree",
+            "name": "최진혁",
+            "en_name": "Choi, Jin Hyuk",
+            "image": "../../images/member/choijinhyuk.png",
+            "bio": [],
+            "research_topic": "Disinfection using non-chlorinated oxidizing agent",
+            "thesis_title": "Disinfection of pathogenic and antibiotic-resistant bacteria using solar/peracetic acid process"
         }
     ]
 }

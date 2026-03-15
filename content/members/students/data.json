@@ -1,25 +1,8 @@
 {
     "graduate_students": [
-        {
-            "id": 0,
-            "title": "PhD student",
-            "name": "윤소영",
-            "en_name": "Yoon, So Yeong",
-            "image": "../../images/member/yoonsoyeong.png",
-            "bio": [],
-            "research_topic": "Monitoring microplastics in freshwater/Synthesis functionalized nanofibers"
-        },
+        
         {
             "id": 1,
-            "title": "MS student",
-            "name": "최진혁",
-            "en_name": "Choi, Jin Hyuk",
-            "image": "../../images/member/choijinhyuk.png",
-            "bio": [],
-            "research_topic": "Disinfection using non-chlorinated oxidizing agent"
-        },
-        {
-            "id": 2,
             "title": "MS student",
             "name": "김나래",
             "en_name": "Kim, Na Rae",
@@ -28,7 +11,7 @@
             "research_topic": "Optimization of microplastic analysis/Degradation of microplasitcs using advanced oxidation process"
         },
         {
-            "id": 3,
+            "id": 2,
             "title": "BS/MS student",
             "name": "이명송",
             "en_name": "Lee, Myeong Song",

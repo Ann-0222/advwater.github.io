@@ -2,6 +2,42 @@
     "items": [
         {
             "images": [
+                "../../images/gallery/2026-02-graduation.png"
+            ],
+            "description": "[2026.2 윤소영 박사졸업/우수학술연구상 수상]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2026-02-graduation2.png"
+            ],
+            "description": "[2026.2 최진혁 석사졸업]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2026-02-lab.png"
+            ],
+            "description": "[2026.2 연구실 단체사진]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2025-11-presentation.png"
+            ],
+            "description": "[2025.11 환경공학전공 학부졸업논문 발표회]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2025-11-academy.png"
+            ],
+            "description": "[2025.11 대한환경공학회]"
+        },
+        {
+            "images": [
+                "../../images/gallery/2025-10-newzealand.png"
+            ],
+            "description": "[2025.10 IWA-Asphire 뉴질랜드]"
+        },
+        {
+            "images": [
                 "../../images/gallery/2025-08-mt.png"
             ],
             "description": "[2025.08 연구실 엠티(충주)]"

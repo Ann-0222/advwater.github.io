@@ -131,6 +131,37 @@
 
                     {{ end }}
             
+
+                {{ else if eq .Params.type "post_doc" }}
+
+                    <h2 class="section-title"><span>Post-doc</span></h2>
+
+                    {{ range $index, $area := index $data "post_doc" }}
+                        <!-- Article main content -->
+                        <article class="maincontent">
+                            <div class="row">
+                                <div class="col-sm-3 text-right">
+                                    <img class="img-thumbnail mx-auto d-block" src="{{ .image }}" alt="alumni">
+                                </div>
+                                
+                                <div class="col-sm-9">
+                                    <div class="member-description">
+                                        <a href="mailto:{{ .email }}">{{ .title }}</a>
+                                        <p>{{ .name }}({{ .en_name }})</p>
+                                        <p><span class="text-warning">Research topic </span>{{ .research_topic }}</p>
+                                        {{ if .thesis_title }}
+                                        <p><span class="text-info">Thesis title </span>{{ .thesis_title }}</p>
+                                        {{ end }}
+                                        {{ if .current_work_place }}
+                                        <p><span class="text-success">현 근무지 </span>{{ .current_work_place }}</p>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
+                        <!-- /Article -->
+
+                    {{ end }}
                 {{ end }}
 
 

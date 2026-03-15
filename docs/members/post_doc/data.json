@@ -1,0 +1,13 @@
+{
+    "post_doc": [
+        {
+            "id": 0,
+            "title": "Post-doc researcher",
+            "name": "윤소영",
+            "en_name": "Yoon, So Yeong",
+            "image": "../../images/member/yoonsoyeong.png",
+            "bio": [],
+            "research_topic": "Monitoring microplastics in freshwater/Synthesis functionalized nanofibers"
+        }
+    ]
+}

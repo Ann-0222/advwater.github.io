@@ -2,6 +2,16 @@
 title = "SCI(E) Journals"
 weight = 0
 +++
+&#8291;92. Choi JH, Ko M, Yoon S, Kim N, Jang T, Lee M, **Park JA***. Removal of nanoplastics from aquatic environments using graphene oxide/chitosan sponges. Journal of Environmental Management, 398, 128458, 2026
+
+&#8291;91. Yoon S, Kim N, Lee J, Choi JH, Jang T, Lee M, Kim HO, Ha SJ, Lim KS, **Park JA***. Dual-method analysis of microplastics in lake and wastewater treatment effluents: comparison of micro-FTIR and differential scanning calorimetry technique. Water Research X, 100460, 2025
+
+&#8291;90. Kim Y, Park J, Choi J, Kim M, Seo G, Kim J, **Park JA**, Lim K, Ha SJ, Kim HO. Physiological Barriers to Nucleic Acid Therapeutics and Engineering Strategies for Lipid Nanoparticle Design, Optimization, and Clinical Translation. Pharmaceutics, 17(10), 1309, 2025
+
+&#8291;89. Lim SY, Han S, Kim Y, Kim H, Kim Y, **Park JA**, Yun J, Yong SB, Won YW, Lim KS. Advanced breast cancer immunotherapy: Surface modification of NK cells for embedding antibody-drug conjugates. Biomedicine & Pharmacotherapy, 189, 118245, 2025
+
+&#8291;88. Kim Y, Lim S, Kim HO, Ha SJ, **Park JA**, Won YW, Chae S, Lim KS. Combination strategies with HSP90 inhibitors in cancer therapy: Mechanisms, challenges, and future perspectives. Pharmaceuticals, 18(8), 1083, 2025
+
 &#8291;87. Kim N, Lee,JW, Jang T, Yoon S, Choi JH, Hong E*, **Park JA***. Adsorption of cationic dyes using Sargassum horneri and Ulva australis biosorbent. Desalination and Water Treatment, 101351, 2025
 
 &#8291;86. Yoon S, Kim J, Jang T, Choi JH, Kim N, Kim HK*, **Park JA***. Synthesis of zinc oxide/reduced graphene oxide microspheres for the photodegradation of bisphenol F. Carbon Letters, 2025
